@@ -1,12 +1,14 @@
 # Bixi Bike Sharing Program 
 
 # Introduction
-BIXI Montreal (“BIXI”) is a non-profit organization created in 2014 by the city of Montreal to manage its bike-sharing system. BIXI has about 10,000 regular and electric bikes spreading across 800 stations in Montreal . BIXI is part of Montreal’s public transit system. Similarly, Vancouver’s public bike share program, Mobi by Shaw Go, has a similar model but on a smaller scale than BIXI Montreal.   
+BIXI Montreal (“BIXI”) is a non-profit organization created in 2014 by the city of Montreal to manage its bike-sharing system. BIXI has about 10,000 regular and electric bikes spreading across 800 stations in Montreal . BIXI is part of Montreal’s public transit system. Similarly, Vancouver’s public bike share program, Mobi by Shaw Go, has a similar model but on a smaller scale than BIXI Montreal.   Source: https://www.bixi.com/en/open-data
 
 The goal of this report is to gain an overview understanding of how people use BIXI bikes such as the factors that influence the volume of usage, trends in popular stations, and overall business growth. The open data source was downloaded from BIXI for the period between 2016 to 2017 including data on trips and the location of stations. A SQL file is attached separately detailing the data analysis of BIXI bikes. 
 
 # The Analytical Process
 ## Overview of BIXI bikes’ volume of usage throughout the months
+
+![](assets\fig1.1_totalnumbers_monthly_trips.png")
 Figure 1.1 Total Number of Monthly Trips showed an increase in usage from 2016 to 2017. The months from May to October showed the highest trip usage, with up to 700K trips made in July 2016 and 900K trips in July 2017 ( a 30% increase in the busiest month). Figure 1.2 Percentage of Total Trips by Month per Year showed a similar percentage in both years. The four months from June to September were accounted for over 67% of the total trips in both 2016 and 2017. Thus, BIXI bikes had the highest usage in the summer months.
 
 Figure 1.3 Percentage of Trips by members in 2017 showed the trend of member usage in 2017 by month. The percentage of trips my member was lowest in July 2017 and increased to the highest in November. However, compared to Figure 1.1, the trip usage was the highest in July 2017 which showed that there was a significant increase in non-member usage in July as well and decreased by November. Figure 1.4 The Top 10 Stations by Round Trips showed that Mackay/ de Maisonneuve was the most round-trip station which accounted for over 18% of all the round trips. Metro Laurier and Metro Place-des-Arts followed by 2nd and 3rd stations with the most round trips.
