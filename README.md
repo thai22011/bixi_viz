@@ -56,3 +56,16 @@ Similarly, Figure 3.2 showed the total revenue generated from single, shorter tr
 
 BIXI bike had a 30% growth in usage from 2016, up to 900K trips made in July 2017. Summer months recorded the most trips which accounted for 67% of total trips. Mackay/ de Maisonneuve station had the most round trip recorded in 2016 and 2017, followed by Metro Laurier and Metro Place-des-Arts stations. For trip durations, member users had 5-20 minute trips on average, while non-member users had longer trips between 10-30 minutes on average. In addition, on the average, most shorter trips were at downtown Montreal and trip duration increased as it went further away from the center. Lastly, most revenues for single trips by infrequent users were generated on the weekend, in the afternoon and evening, and on trips less than 30-min. 
 
+# Citation
+Use this bibtex to cite this repository:
+
+```
+@misc{thai22011_Crypto_Clustering_PricePrediction_2022,
+  title={Bixi Bike Sharing Program},
+  author={Thai Nguyen},
+  year={2/2023},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/thai22011/bixi_viz}},
+}
+```
